@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-severson",
+  "version": "1.0.0",
+  "description": "Derek Severson's ESLint Config",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekSeverson/eslint-config-severson.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "severson"
+  ],
+  "author": "Derek Severson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerekSeverson/eslint-config-severson/issues"
+  },
+  "homepage": "https://github.com/DerekSeverson/eslint-config-severson#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
